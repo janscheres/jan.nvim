@@ -19,5 +19,3 @@ i love theprimagen
 " a" to add file to harpoon
 " h" to see harpoon list (i rarely do this)
 " X" where X is an integer between 1 and 6 inclusive to jump to that file in harpoon list. SPEEEEEEEEEEEEED
-
-###
