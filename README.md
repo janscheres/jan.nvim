@@ -1,5 +1,6 @@
 # jan.nvim
 my neovim dotfiles
+goes in ~/.config/nvim
 
 ## overview
 quick overview of some things, mostly incase i forget:
