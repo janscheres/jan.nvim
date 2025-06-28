@@ -1,0 +1,13 @@
+{
+  "coc-nvim-lua": { "branch": "master", "commit": "a8bb87572160c063460d8b221354d45b5bb1f7ff" },
+  "coc.nvim": { "branch": "master", "commit": "f45c57ebd4d828f3a12a152fefd7f4a1a9b8a139" },
+  "harpoon": { "branch": "master", "commit": "1bc17e3e42ea3c46b33c0bbad6a880792692a1b3" },
+  "lazy.nvim": { "branch": "main", "commit": "6c3bda4aca61a13a9c63f1c1d1b16b9d3be90d7a" },
+  "nordic.nvim": { "branch": "main", "commit": "6afe957722fb1b0ec7ca5fbea5a651bcca55f3e1" },
+  "nvim-treesitter": { "branch": "master", "commit": "42fc28ba918343ebfd5565147a42a26580579482" },
+  "plenary.nvim": { "branch": "master", "commit": "857c5ac632080dba10aae49dba902ce3abf91b35" },
+  "telescope.nvim": { "branch": "master", "commit": "a0bbec21143c7bc5f8bb02e0005fa0b982edc026" },
+  "undotree": { "branch": "master", "commit": "b951b87b46c34356d44aa71886aecf9dd7f5788a" },
+  "vim-be-good": { "branch": "master", "commit": "0ae3de14eb8efc6effe7704b5e46495e91931cc5" },
+  "vim-fugitive": { "branch": "master", "commit": "4a745ea72fa93bb15dd077109afbb3d1809383f2" }
+}
